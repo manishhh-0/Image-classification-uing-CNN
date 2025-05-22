@@ -1,3 +1,5 @@
+# LINK TO DOWLOAD DATASET : https://www.cs.toronto.edu/%7Ekriz/cifar.html
+
 Here’s a **perfect, clear, and beginner-friendly description** of the CNN CIFAR-10 image classification project from the GitHub notebook you shared:
 
 ---
